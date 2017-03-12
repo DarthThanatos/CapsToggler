@@ -1,0 +1,6 @@
+C:\Users\Robert\Desktop\winio\WinIo\Samples\DumpPort\CapsToggler\bin\Release\CapsToggler.exe.config
+C:\Users\Robert\Desktop\winio\WinIo\Samples\DumpPort\CapsToggler\bin\Release\CapsToggler.exe
+C:\Users\Robert\Desktop\winio\WinIo\Samples\DumpPort\CapsToggler\bin\Release\CapsToggler.pdb
+C:\Users\Robert\Desktop\winio\WinIo\Samples\DumpPort\CapsToggler\obj\Release\CapsToggler.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\winio\WinIo\Samples\DumpPort\CapsToggler\obj\Release\CapsToggler.exe
+C:\Users\Robert\Desktop\winio\WinIo\Samples\DumpPort\CapsToggler\obj\Release\CapsToggler.pdb
